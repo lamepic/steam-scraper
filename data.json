@@ -1,0 +1,218 @@
+[
+  {
+    "title": "SCARLET NEXUS",
+    "price": "$59.99",
+    "tags": "Action, Adventure, RPG, Anime",
+    "platforms": "win"
+  },
+  {
+    "title": "Legend of Mana",
+    "price": "$29.99",
+    "tags": "Exploration, Real Time Tactics, Party-Based RPG, RPG",
+    "platforms": "win"
+  },
+  {
+    "title": "PULSAR: Lost Colony",
+    "price": "$19.99",
+    "tags": "Space, Co-op, Adventure, Open World",
+    "platforms": "win, mac, linux"
+  },
+  {
+    "title": "LEGO\u00ae Builder's Journey",
+    "price": "$19.99",
+    "tags": "Puzzle, Adventure, LEGO, Isometric",
+    "platforms": "win"
+  },
+  {
+    "title": "Vedelem: The Golden Horde",
+    "price": "Free",
+    "tags": "Strategy, Action, Base Building, Management",
+    "platforms": "win"
+  },
+  {
+    "title": "Dungeons & Dragons: Dark Alliance",
+    "price": "$39.99",
+    "tags": "Co-op, Action, Dungeons & Dragons, RPG",
+    "platforms": "win"
+  },
+  {
+    "title": "ENDER LILIES: Quietus of the Knights",
+    "price": "$24.99",
+    "tags": "Metroidvania, Female Protagonist, Souls-like, Dark Fantasy",
+    "platforms": "win"
+  },
+  {
+    "title": "Red Solstice 2: Survivors",
+    "price": "$26.99",
+    "tags": "Strategy RPG, Real Time Tactics, Character Customization, RPG",
+    "platforms": "win"
+  },
+  {
+    "title": "Roguebook",
+    "price": "$24.99",
+    "tags": "Roguelike Deckbuilder, Adventure, Roguelite, Card Game",
+    "platforms": "win"
+  },
+  {
+    "title": "Cruelty Squad",
+    "price": "$17.99",
+    "tags": "FPS, Immersive Sim, Capitalism, Stealth",
+    "platforms": "win"
+  },
+  {
+    "title": "Wildermyth",
+    "price": "$24.99",
+    "tags": "Story Rich, Party-Based RPG, Choices Matter, Turn-Based Tactics",
+    "platforms": "win, mac, linux"
+  },
+  {
+    "title": "GUILTY GEAR -STRIVE-",
+    "price": "$59.99",
+    "tags": "2D Fighter, 2.5D, Fighting, Arcade",
+    "platforms": "win"
+  },
+  {
+    "title": "GUILTY GEAR -STRIVE-",
+    "price": "$59.99",
+    "tags": "2D Fighter, 2.5D, Fighting, Arcade",
+    "platforms": "win"
+  },
+  {
+    "title": "Hell Architect: Prologue",
+    "price": "Free",
+    "tags": "City Builder, Colony Sim, Dungeon Crawler, Base Building",
+    "platforms": "win"
+  },
+  {
+    "title": "Deepest Sword",
+    "price": "Free To Play",
+    "tags": "Side Scroller, 2D Platformer, Pixel Graphics, Puzzle Platformer",
+    "platforms": "win, mac"
+  },
+  {
+    "title": "Muck",
+    "price": "Free",
+    "tags": "Survival, Crafting, Building, Roguelike",
+    "platforms": "win"
+  },
+  {
+    "title": "Motorcycle Mechanic Simulator 2021: Prologue",
+    "price": "Free To Play",
+    "tags": "Casual, Simulation, Sandbox, Walking Simulator",
+    "platforms": "win"
+  },
+  {
+    "title": "Griftlands",
+    "price": "$15.99",
+    "tags": "Card Battler, Roguelite, Deckbuilding, RPG",
+    "platforms": "win, mac, linux"
+  },
+  {
+    "title": "Rubber Bandits: Summer Prologue",
+    "price": "Free",
+    "tags": "Beat 'em up, PvP, 3D, Action",
+    "platforms": "win"
+  },
+  {
+    "title": "Solasta: Crown of the Magister",
+    "price": "$31.99",
+    "tags": "RPG, Dungeons & Dragons, Choices Matter, Tactical",
+    "platforms": "win"
+  },
+  {
+    "title": "Tainted Grail: Conquest",
+    "price": "$13.99",
+    "tags": "Dark Fantasy, Deckbuilding, Story Rich, Card Game",
+    "platforms": "win"
+  },
+  {
+    "title": "MechWarrior 5: Mercenaries",
+    "price": "$29.99",
+    "tags": "Mechs, Simulation, FPS, Action",
+    "platforms": "win"
+  },
+  {
+    "title": "Maneater",
+    "price": "$23.99",
+    "tags": "Dark Humor, Nature, Underwater, Open World",
+    "platforms": "win"
+  },
+  {
+    "title": "Capcom Arcade Stadium",
+    "price": "Free",
+    "tags": "Action, Arcade, 2D Platformer, 2D Fighter",
+    "platforms": "win"
+  },
+  {
+    "title": "Knockout City\u2122",
+    "price": "$14.99",
+    "tags": "Multiplayer, Sports, Team-Based, Competitive",
+    "platforms": "win"
+  },
+  {
+    "title": "Prison Simulator: Prologue",
+    "price": "Free",
+    "tags": "Action, Adventure, Singleplayer, Crime",
+    "platforms": "win"
+  },
+  {
+    "title": "Days Gone",
+    "price": "$49.99",
+    "tags": "Open World, Post-apocalyptic, Zombies, Singleplayer",
+    "platforms": "win"
+  },
+  {
+    "title": "SnowRunner",
+    "price": "$23.99",
+    "tags": "Simulation, Adventure, Automobile Sim, Sandbox",
+    "platforms": "win"
+  },
+  {
+    "title": "Chair Simulator",
+    "price": "Free",
+    "tags": "Casual, Simulation, Psychological Horror, Free to Play",
+    "platforms": "win, mac"
+  },
+  {
+    "title": "Mass Effect\u2122 Legendary Edition",
+    "price": "$49.79",
+    "tags": "RPG, Story Rich, Action, Sci-fi",
+    "platforms": "win"
+  },
+  {
+    "title": "Subnautica: Below Zero",
+    "price": "$29.99",
+    "tags": "Open World Survival Craft, Survival, Underwater, Open World",
+    "platforms": "win, mac"
+  },
+  {
+    "title": "Subnautica: Below Zero",
+    "price": "$29.99",
+    "tags": "Open World Survival Craft, Survival, Underwater, Open World",
+    "platforms": "win, mac"
+  },
+  {
+    "title": "Untrusted",
+    "price": "Free To Play",
+    "tags": "Multiplayer, Hacking, Social Deduction, Party-Based RPG",
+    "platforms": "win, linux"
+  },
+  {
+    "title": "UNBEATABLE [white label]",
+    "price": "Free",
+    "tags": "Rhythm, Anime, Female Protagonist, Action-Adventure",
+    "platforms": "win"
+  },
+  {
+    "title": "X3: Farnham's Legacy",
+    "price": "Free",
+    "tags": "Action, Simulation, Strategy, Space Sim",
+    "platforms": "win"
+  },
+  {
+    "title": "Gas Station Simulator: Prologue - Early Days",
+    "price": "Free",
+    "tags": "Simulation, Casual, Time Management, Immersive Sim",
+    "platforms": "win"
+  }
+]

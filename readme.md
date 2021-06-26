@@ -1,0 +1,1 @@
+# A simple web scraper that scrapes new releases from steam and stores as a json file
